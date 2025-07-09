@@ -1,6 +1,6 @@
 # Geometric Flow Modeling
 
-<img src="./assets/cube.gif" width="75%" height="75%"/>
+<img src="./assets/cube.gif"/>
 
 ## Overview
 
@@ -15,17 +15,17 @@ Implementation and visualization of a few discrete geometric flow algorithms fro
 
 ### Example of Heat Mapping on Hand Mesh
 
-<img src="./assets/hand.gif" width="75%" height="75%"/>
+<img src="./assets/hand.gif"/>
 
 ### Example of Rotational Camera around Voronoi Sphere
 
-<img src="./assets/sphere.gif" width="75%" height="75%"/>
+<img src="./assets/sphere.gif"/>
 
 ## Usage
 
 As mentioned previously, you can test out geometric flows on any .obj file as long as it has a triangulated mesh. I recommend using the following Blender export settings (or the equivalent in your software of choice) for the best results.
 
-<img src="./assets/options.png" width="30%" height="30%"/>
+<img src="./assets/options.png"/>
 
 Once you've exported your .obj file, place it in `./models` and replace `#define MESH` with its location at the top of `app.c`. Finally, run `make && ./bin/app.exe` in your terminal to compile and execute the program.
 
@@ -60,4 +60,4 @@ Once you've exported your .obj file, place it in `./models` and replace `#define
 
 Thank you for taking a look at my project! Hope you enjoyed!
 
-<img src="./assets/heart.gif" width="75%" height="75%"/>
+<img src="./assets/heart.gif"/>
