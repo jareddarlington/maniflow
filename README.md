@@ -4,7 +4,7 @@
 
 ## Overview
 
-Maniflow is a high-performance C/OpenGL application for visualizing and experimenting with geometric flow algorithms on 3D meshes. Featuring mean curvature flow, heat mapping, and flexible camera modes, it enables users to explore and smooth triangulated models while observing curvature evolution in real time.
+Maniflow is a high-performance C/OpenGL application for visualizing and experimenting with discrete geometric flows on 3D meshes. Featuring mean curvature flow, heat mapping, and flexible camera modes, it enables users to explore and smooth triangulated models while observing curvature evolution in real time.
 
 ## Features
 
