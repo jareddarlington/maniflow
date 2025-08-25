@@ -1,10 +1,10 @@
-# Geometric Flow Modeling
+# Maniflow
 
 <img src="./assets/cube.gif"/>
 
 ## Overview
 
-Implementation and visualization of a few discrete geometric flow algorithms from the field of [differential geometry](https://en.wikipedia.org/wiki/Differential_geometry). Written in C, using [OpenGL 4.6](https://www.khronos.org/about/), for high-performance rendering.
+Maniflow is a high-performance C/OpenGL application for visualizing and experimenting with geometric flow algorithms on 3D meshes. Featuring mean curvature flow, heat mapping, and flexible camera modes, it enables users to explore and smooth triangulated models while observing curvature evolution in real time.
 
 ## Features
 
@@ -56,8 +56,8 @@ Once you've exported your .obj file, place it in `./models` and replace `#define
 -   Texture options and pretty shaders.
 -   Vertex selection system for more precise smoothing.
 
-## Thank You
+## Thank You!
 
-Thank you for taking a look at my project! Hope you enjoyed!
+Thank you for checking out this project!
 
 <img src="./assets/heart.gif"/>
