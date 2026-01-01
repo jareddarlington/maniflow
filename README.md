@@ -1,4 +1,4 @@
-# Maniflow: Differential Geometry Visualized
+# ManiFlow: Differential Geometry Visualizer
 
 <img src="./assets/cube.gif"/>
 
